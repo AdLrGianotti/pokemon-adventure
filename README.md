@@ -135,6 +135,8 @@ Sinta-se à vontade para contribuir com melhorias ou novas ideias. Se você enco
 Caso tenha dúvidas ou sugestões, entre em contato pelo GitHub ou envie um e-mail para:
 
 GitHub: https://github.com/AdLrGianotti
+
 Linkedin: https://www.linkedin.com/in/adrianogianotti-qa-engineer/
+
 Email: adlrgianotti@hotmail.com
 
